@@ -1,4 +1,3 @@
-```md
 # **Assessment DevOps e Infraestrutura**
 
 ## **1. Levantamento do Código-Fonte e Versionamento**
@@ -85,10 +84,10 @@
 
 ## **8. Investimento**
 
-| Item | Descrição | Valor Unitário | Horas Estimadas | Total |
-|------|-----------|----------------|----------------|--------|
-| Assessment DevOps e Infraestrutura | Levantamento, análise e documentação | R$ 150,00 | 16h | **R$ 2.400,00** |
-| Suporte Extraordinário | Horas adicionais conforme necessidade | **R$ 150,00** | **Sem mínimo** | **Sob demanda** |
+| Item                        | Descrição                              | Valor Unitário | Horas Estimadas | Total          |
+|-----------------------------|----------------------------------------|---------------|----------------|---------------|
+| Assessment DevOps e Infraestrutura | Levantamento, análise e documentação | R$ 150,00     | 16h            | **R$ 2.400,00** |
+| Suporte Extraordinário      | Horas adicionais conforme necessidade | **R$ 150,00** | **Sem mínimo** | **Sob demanda** |
 
 ---
 
@@ -96,5 +95,3 @@
 Este assessment detalha o estado atual da infraestrutura e DevOps da aplicação Laravel, identificando **pontos críticos e melhorias** para **segurança, escalabilidade e eficiência operacional**.
 
 Caso haja necessidade de ajustes ou consultoria adicional, as horas extras podem ser contratadas conforme demanda. 🚀
-```
-
