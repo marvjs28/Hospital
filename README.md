@@ -1,6 +1,6 @@
 # Assessment de DevOps e Infraestrutura
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 1. Análise do Código-Fonte e Versionamento
 
@@ -14,7 +14,7 @@
 - Avaliação da frequência e qualidade dos commits
 - Padrões de nomenclatura e versionamento
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 2. Infraestrutura e Servidores
 
@@ -29,7 +29,7 @@
 - Políticas de acesso (SSH, VPN, IAM)
 - Regras de firewall e controles de segurança
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 3. Banco de Dados
 
@@ -43,7 +43,7 @@
 - Estratégias de cache e replicação
 - Configuração de backups e recuperação de dados
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 4. Deploy e Integração Contínua
 
@@ -56,7 +56,7 @@
 - Estrutura de ambientes (Desenvolvimento, Staging, Produção)
 - Estratégias de rollback e gerenciamento de downtime
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 5. Segurança e Conformidade
 
@@ -69,7 +69,7 @@
 - Configuração de cabeçalhos de segurança (CSP, HSTS, etc.)
 - Proteções contra SQL Injection, XSS e CSRF
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 6. Performance e Escalabilidade
 
@@ -81,7 +81,7 @@
 - Implementação de cache (Redis, Memcached, etc.)
 - Compressão e otimização de assets (CSS, JS, imagens)
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 7. Custos e Eficiência Operacional
 
@@ -89,7 +89,7 @@
 - Identificação de servidores e serviços subutilizados
 - Oportunidades de otimização para redução de custos
 
-════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ## 8. Investimento
 
@@ -99,9 +99,3 @@
 | Suporte Extraordinário      | Horas adicionais sob demanda                   | **R$ 150,00** | **Sem mínimo** | **Sob consulta** |
 
 ════════════════════════════════════════
-
-## Conclusão
-
-Este assessment fornecerá uma visão detalhada sobre a infraestrutura da aplicação, destacando pontos críticos e propondo melhorias para segurança, escalabilidade e eficiência. 
-
-Se necessário, a consultoria pode ser expandida conforme demanda para garantir um ambiente mais robusto e otimizado.
