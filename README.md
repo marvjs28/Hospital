@@ -1,10 +1,10 @@
 # Assessment de DevOps e Infraestrutura
 
 ═════════════════════════════════════════════════════════════════════════════════════════
-## 1. Análise do Código-Fonte e Versionamento
+
+## 1. Análise do Código-Fonte, Versionamento e Deploy
 
 ### Repositório e Controle de Versão
-- Organização e documentação do repositório
 - Estrutura de branches e estratégia de versionamento
 - Políticas de revisão de código e pull requests
 - Identificação de credenciais expostas
@@ -13,19 +13,23 @@
 - Avaliação da frequência e qualidade dos commits
 - Padrões de nomenclatura e versionamento
 
+### Fluxo de Deploy
+- Verificação se existe Automatização ou deploy manual
+- Verificação de Pipelines de CI/CD configuradas (GitHub Actions)
+
 ═════════════════════════════════════════════════════════════════════════════════════════
+
 ## 2. Infraestrutura e Servidores
 
 ### Mapeamento de Servidores
 - Quantidade de servidores e respectivas funções
 - Sistemas operacionais utilizados
-- Estratégias de escalabilidade (vertical/horizontal)
-- Implementação de balanceadores de carga
+- Verificação de uso de Estratégias de escalabilidade (vertical/horizontal)
+- Verificação do uso de balanceadores de carga
 
-### Segurança e Monitoramento
-- Ferramentas de monitoramento configuradas
-- Políticas de acesso (SSH, VPN, IAM)
-- Regras de firewall e controles de segurança
+### Ambientes de Deploy
+- Verificação da Estrutura de ambientes (Desenvolvimento, Staging, Produção)
+- Verificação de Estratégias de rollback e gerenciamento de downtime
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 
@@ -35,53 +39,9 @@
 - Identificação das tecnologias utilizadas (MySQL, PostgreSQL, Redis, etc.)
 - Número de instâncias e distribuição
 
-### Segurança e Performance
-- Análise de segurança e permissões de acesso
-- Uso de índices e otimização de queries
-- Estratégias de cache e replicação
-- Configuração de backups e recuperação de dados
-
 ═════════════════════════════════════════════════════════════════════════════════════════
 
-## 4. Deploy e Integração Contínua
-
-### Fluxo de Deploy
-- Automatização ou deploy manual
-- Pipelines de CI/CD configurados (GitHub Actions, GitLab CI, Jenkins, etc.)
-- Tempo médio e frequência de deploys
-
-### Ambientes de Deploy
-- Estrutura de ambientes (Desenvolvimento, Staging, Produção)
-- Estratégias de rollback e gerenciamento de downtime
-
-═════════════════════════════════════════════════════════════════════════════════════════
-
-## 5. Segurança e Conformidade
-
-### Gerenciamento de Credenciais
-- Uso adequado de variáveis de ambiente e storage seguro
-- Auditorias de segurança e scanners de vulnerabilidades
-
-### Proteção da Aplicação
-- Firewall de aplicação (WAF) configurado
-- Configuração de cabeçalhos de segurança (CSP, HSTS, etc.)
-- Proteções contra SQL Injection, XSS e CSRF
-
-═════════════════════════════════════════════════════════════════════════════════════════
-
-## 6. Performance e Escalabilidade
-
-### Testes de Carga e Desempenho
-- Monitoramento de performance e identificação de gargalos
-- Estratégias de mitigação de picos de tráfego
-
-### Caching e Otimização
-- Implementação de cache (Redis, Memcached, etc.)
-- Compressão e otimização de assets (CSS, JS, imagens)
-
-═════════════════════════════════════════════════════════════════════════════════════════
-
-## 7. Custos e Eficiência Operacional
+## 4. Custos e Eficiência Operacional
 
 ### Uso de Recursos
 - Identificação de servidores e serviços subutilizados
@@ -89,7 +49,7 @@
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 
-## 8. Investimento
+## Investimento
 
 | Serviço                     | Descrição                                          | Valor Hora  | Horas Estimadas | Custo Total  |
 |----------------------------|--------------------------------------------------|-------------|----------------|--------------|
