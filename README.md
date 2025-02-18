@@ -1,4 +1,5 @@
-# Assessment de DevOps e Infraestrutura
+# Assessment de DevOps e Infraestrutura PluralMed ![image](https://github.com/user-attachments/assets/289fcdfd-a48a-49d7-b60b-db7788c75954)
+
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 
